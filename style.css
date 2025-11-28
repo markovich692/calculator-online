@@ -17,4 +17,30 @@ body {
   line-height: 1.6;
   font-weight: 400;
   min-height: 100vh;
+  background-color: orangered;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.calculator {
+}
+
+.screen {
+}
+
+.screen__display-block {
+}
+
+.screen__display-text {
+}
+
+.keyboard__buttons {
+}
+
+.keyboard__btn {
+}
+.keyboard__btn--op {
+}
+.keyboard__btn--digit {
 }
